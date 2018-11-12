@@ -26,19 +26,19 @@ export class MainContentComponent implements OnInit {
       course: 'Programming'
     }
     this.students[1] = {
-      id: 1,
+      id: 2,
       firstName: 'Bill',
       lastName: 'Nye',
       course: 'Science'
     }
     this.students[2] = {
-      id: 1,
+      id: 3,
       firstName: 'Donald',
       lastName: 'Trump',
       course: 'Politics'
     }
     this.students[3] = {
-      id: 1,
+      id: 4,
       firstName: 'Chris',
       lastName: 'Hemsworth',
       course: 'Acting'
